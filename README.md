@@ -7,7 +7,7 @@
 <h2> Yaptığım Program'ın Resim'i 🤗 </h2>
 
 
-![image]([https://www.hizliresim.com/1j8js8i görsel])
+![image](https://i.hizliresim.com/1j8js8i.jpg)
 
 
 <h3> İletişim İçin </h3>
