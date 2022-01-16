@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\bin\Debug\netcoreapp3.1\bank_system.exe
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\bin\Debug\netcoreapp3.1\bank_system.deps.json
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\bin\Debug\netcoreapp3.1\bank_system.runtimeconfig.json
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\bin\Debug\netcoreapp3.1\bank_system.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\bin\Debug\netcoreapp3.1\bank_system.dll
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\bin\Debug\netcoreapp3.1\bank_system.pdb
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\obj\Debug\netcoreapp3.1\bank_system.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\obj\Debug\netcoreapp3.1\bank_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\obj\Debug\netcoreapp3.1\bank_system.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\obj\Debug\netcoreapp3.1\bank_system.AssemblyInfo.cs
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\obj\Debug\netcoreapp3.1\bank_system.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\obj\Debug\netcoreapp3.1\bank_system.dll
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\obj\Debug\netcoreapp3.1\bank_system.pdb
+C:\Users\admin\Desktop\Visual Studio Programları\bank_system\bank_system\obj\Debug\netcoreapp3.1\bank_system.genruntimeconfig.cache
