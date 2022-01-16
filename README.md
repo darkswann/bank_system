@@ -1,4 +1,4 @@
-<h1 > C# İle Yazmış Olduğum Banka Sistemi Benzeri Programım  👋 </h1>
+<h1 > C# İle Yazmış Olduğum Banka Sistemi Benzeri Programım Sizlerle 👋 </h1>
 
 <br>
 <br>
